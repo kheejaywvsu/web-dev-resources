@@ -9,6 +9,7 @@
     </br>
     <sub>Follow me on <a href="https://twitter.com/whoisismile">Twitter</a>, <a href="https://www.linkedin.com/in/iamismile/">LinkedIn</a>.</sub>
   </p>
+  <!-- comment -->
 </div>
 
 ---
@@ -122,7 +123,7 @@ This is a complete web development resource you need to build your next project.
 - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/) - A Complete HTML Cheat Sheet to help you master HTML.
 - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/) - Brush up on your CSS Skills with this comprehensive Cheat Sheet.
 - [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/) - A Complete list of HTML Interview Questions to help you ace your interview.
-- [ReadyTools HTML Structure Generator](https://www.readytools.co/code-hub/html-structure/) - Generate HTML Structures in seconds. Use Bootstrap or your style/javascript. 
+- [ReadyTools HTML Structure Generator](https://www.readytools.co/code-hub/html-structure/) - Generate HTML Structures in seconds. Use Bootstrap or your style/javascript.
 - [ReadyTools Components Generator](https://www.readytools.co/code-hub/components/) - Generate HTML Components easily.
 - [ReadyTools Generated Buttons](https://www.readytools.co/code-hub/buttons/) - Copy fancy buttons with one click and use it on your website.
 
